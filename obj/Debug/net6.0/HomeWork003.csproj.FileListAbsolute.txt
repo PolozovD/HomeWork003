@@ -1,0 +1,15 @@
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.csproj.AssemblyReference.cache
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.AssemblyInfoInputs.cache
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.AssemblyInfo.cs
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.csproj.CoreCompileInputs.cache
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\bin\Debug\net6.0\HomeWork003.exe
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\bin\Debug\net6.0\HomeWork003.deps.json
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\bin\Debug\net6.0\HomeWork003.runtimeconfig.json
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\bin\Debug\net6.0\HomeWork003.dll
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\bin\Debug\net6.0\HomeWork003.pdb
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.dll
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\refint\HomeWork003.dll
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.pdb
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\HomeWork003.genruntimeconfig.cache
+D:\Обучение\Учеба\Seminars#\Homeworks\HomeWork003\obj\Debug\net6.0\ref\HomeWork003.dll
